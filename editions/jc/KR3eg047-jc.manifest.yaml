@@ -1,0 +1,344 @@
+canonical_identifier: bkk:krp/KR3eg047/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eg047/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 暑症發原
+  identifiers:
+    krp: KR3eg047
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg047.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg047_000-jc.yaml, hash: 'sha256:22fb9b2dd117773182c92836c6ec55d5ef900cb66914ce3a319d41b532d7cead'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg047_000-jc.markers.yaml, hash: 'sha256:2817c59f4611888e8ade3b7f9139c585fd4aaba12eea9eca7fed4052dcefb06b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 222
+  label: 李居士識候參
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d3.h1s1
+    span:
+    - body
+    - 222
+    - 479
+  label: 治例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d4.h1s1
+    span:
+    - body
+    - 479
+    - 802
+  label: 論夏初陰雨濕溫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d5.h1s1
+    span:
+    - body
+    - 802
+    - 1186
+  label: 手太陰肺經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d6.h1s1
+    span:
+    - body
+    - 1186
+    - 2054
+  label: 手太陰肺經症治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d7.h1s1
+    span:
+    - body
+    - 2054
+    - 2270
+  label: 手厥陰心包絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d8.h1s1
+    span:
+    - body
+    - 2270
+    - 2934
+  label: 手厥陰心包絡經症治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d9.h1s1
+    span:
+    - body
+    - 2934
+    - 3200
+  label: 手少陰心經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d10.h1s1
+    span:
+    - body
+    - 3200
+    - 4039
+  label: 手少陰心經症治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d11.h1s1
+    span:
+    - body
+    - 4039
+    - 4297
+  label: 手陽明大陽經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d12.h1s1
+    span:
+    - body
+    - 4297
+    - 4727
+  label: 手陽明大腸經症治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d13.h1s1
+    span:
+    - body
+    - 4727
+    - 4919
+  label: 手太陽小腸經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d14.h1s1
+    span:
+    - body
+    - 4919
+    - 5267
+  label: 手太陽小腸經症治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d15.h1s1
+    span:
+    - body
+    - 5267
+    - 5862
+  label: 手少陽三焦經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d16.h1s1
+    span:
+    - body
+    - 5862
+    - 6750
+  label: 手少陽三焦症治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d17.h1s1
+    span:
+    - body
+    - 6750
+    - 7081
+  label: 論伏暑發於秋初者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d18.h1s1
+    span:
+    - body
+    - 7081
+    - 7173
+  label: 論暑濕內伏已感涼風者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d19.h1s1
+    span:
+    - body
+    - 7173
+    - 7262
+  label: 論伏暑在裡外感暴寒者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d20.h1s1
+    span:
+    - body
+    - 7262
+    - 7380
+  label: 論伏暑傷金成療
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d21.h1s1
+    span:
+    - body
+    - 7380
+    - 7647
+  label: 論瘧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d22.h1s1
+    span:
+    - body
+    - 7647
+    - 7870
+  label: 論痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d23.h1s1
+    span:
+    - body
+    - 7870
+    - 8236
+  label: 論溫瘧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d24.h1s1
+    span:
+    - body
+    - 8236
+    - 8634
+  label: 論瘧溫瘧秋溫症異源同
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d25.h1s1
+    span:
+    - body
+    - 8634
+    - 9210
+  label: 論秋時
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d26.h1s1
+    span:
+    - body
+    - 9210
+    - 9239
+  label: 隱於陽明之半
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d27.h1s1
+    span:
+    - body
+    - 9239
+    - 9832
+  label: 邪入少陽血分
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d28.h1s1
+    span:
+    - body
+    - 9832
+    - 10229
+  label: 足厥陰肝經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d29.h1s1
+    span:
+    - body
+    - 10229
+    - 10482
+  label: 足少陰腎經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d30.h1s1
+    span:
+    - body
+    - 10482
+    - 10888
+  label: 足太陰脾經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d31.h1s1
+    span:
+    - body
+    - 10888
+    - 11164
+  label: 足少陽膽經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d32.h1s1
+    span:
+    - body
+    - 11164
+    - 11569
+  label: 足陽明胃經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg047_jc_000-d33.h1s1
+    span:
+    - body
+    - 11569
+    - 12797
+  label: 足太陽膀胱經
+  type: section
+  level: 1
+hash: sha256:73eeca29c07f6a00f65281c1d4041b682d8823cea3b15d4912c94fbec376ca66
