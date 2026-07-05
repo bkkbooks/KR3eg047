@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg047_000.yaml, hash: 'sha256:aa0e6962bb08a4fdcff1f17f17a4f11838975b2df1cc3e25dd9c74b91a549423'}
+  - {seq: 0, filename: KR3eg047_000.yaml, hash: 'sha256:22fb9b2dd117773182c92836c6ec55d5ef900cb66914ce3a319d41b532d7cead'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg047_000.markers.yaml, hash: 'sha256:4348d305ef8108db17905dba107fa9c8ae788a1c1a3610f1f23b8b4ba31b9308'}
+  - {seq: 0, role: markers, filename: assets/KR3eg047_000.markers.yaml, hash: 'sha256:5fcbecf48b545765fba649cd8ca85af03cbbbc06052ca295cb4e5804a32e958f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -341,7 +341,4 @@ table_of_contents:
   label: 足太陽膀胱經
   type: section
   level: 1
-hash: sha256:bad31972655d69e576e270ce0c3e6b1a4eca30719daa914c1a4d83cba09de0db
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:72da9ae20d4b28c16f1db198700210164b0d97e812cec7c7c67c1d12dfc318dd
