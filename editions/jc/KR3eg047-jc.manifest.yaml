@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg047_000-jc.yaml, hash: 'sha256:22fb9b2dd117773182c92836c6ec55d5ef900cb66914ce3a319d41b532d7cead'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg047_000-jc.markers.yaml, hash: 'sha256:2817c59f4611888e8ade3b7f9139c585fd4aaba12eea9eca7fed4052dcefb06b'}
+  - {seq: 0, role: markers, filename: assets/KR3eg047_000-jc.markers.yaml, hash: 'sha256:1041bf97042dd9b216da524ceb846642ff52c2dd57fd3148167f03249f560d5b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -341,4 +341,4 @@ table_of_contents:
   label: 足太陽膀胱經
   type: section
   level: 1
-hash: sha256:73eeca29c07f6a00f65281c1d4041b682d8823cea3b15d4912c94fbec376ca66
+hash: sha256:7c6fe194b9a9e98f80a8c8e14d91fb45b932daa4b980e296f546742a8f2a78a4
